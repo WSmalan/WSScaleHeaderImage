@@ -1,1 +1,1 @@
-#WSScaleHeaderImage
+#WSScaleHeaderImage 
