@@ -1,1 +1,1 @@
-# WSScaleHeaderImage
+#WSScaleHeaderImage asong手把手教您放大导航栏的头像
